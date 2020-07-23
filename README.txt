@@ -1,1 +1,1 @@
-EDA and predictions for COVID 19 Insian scenario
+EDA and predictions for COVID 19 Indian scenario
