@@ -1,2 +1,2 @@
 EDA and predictions for COVID 19 Indian scenario.
-Algorithm used :Polynomial regression
+Algorithm used :Polynomial Regression
